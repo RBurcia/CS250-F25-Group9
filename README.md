@@ -4,4 +4,4 @@
 # -Patrick Stewart
 # -Juan Conriquez 
 # - Roberto Burciaga
-# -Omar Vizarraga
+# - Omar Vizarraga
