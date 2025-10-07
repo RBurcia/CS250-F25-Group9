@@ -5,5 +5,5 @@
 # -Juan Conriquez 
 # - Roberto Burciaga
 # - Omar Vizarraga
-# - 
-# - 
+# - Evan Paulino
+# - Nikhil Maharaj
