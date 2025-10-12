@@ -20,7 +20,7 @@ https://docs.google.com/document/d/1iQKpgQHKvmxozLZuBp7UyKF-L94jwSdtgEpnrqsvgO8/
     - Connected the UML classes
   # Omar: 
     - Created the Image, Camera, and Comparison classes
-    -Added descriptions of classes, attributes, and methods for the image and comaprison classes
+    - Added descriptions of classes, attributes, and methods for the image and comaprison classes
   # Juan:
      - filled in for Camera in UML
      - filled in for Alerts in UML
