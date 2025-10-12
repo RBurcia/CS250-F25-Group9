@@ -7,6 +7,7 @@ https://docs.google.com/document/d/1iQKpgQHKvmxozLZuBp7UyKF-L94jwSdtgEpnrqsvgO8/
   # Contributions
   # Roberto: Added false alarm, and arranged the boxes
   # Omar: Redirected edges from components so it flows better
+  # Juan: Added the Alerts external output (phone notifications), aswell as a bit more insight in the cameras processing of the Image
 
 # UML Diagram Link:
 # https://drive.google.com/file/d/1ATTj5aAgU1bRCzzvoQFFsT_n4rDxoqpE/view?usp=sharing
@@ -17,4 +18,8 @@ https://docs.google.com/document/d/1iQKpgQHKvmxozLZuBp7UyKF-L94jwSdtgEpnrqsvgO8/
   # Omar: 
     - Created the Image, Camera, and Comparison classes
     -Added descriptions of classes, attributes, and methods for the image and comaprison classes
+  # Juan:
+     - filled in for Camera in UML
+     - filled in for Alerts in UML
+     - Both of these I described with more depth inside the google doc
           
