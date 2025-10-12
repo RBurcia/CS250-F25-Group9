@@ -10,6 +10,7 @@ https://docs.google.com/document/d/1iQKpgQHKvmxozLZuBp7UyKF-L94jwSdtgEpnrqsvgO8/
   # Omar: Redirected edges from components so it flows better
   # Juan: Added the Alerts external output (phone notifications), aswell as a bit more insight in the cameras processing of the Image
   # Nikhil: Added New SWA Diagram, proposing Redundancy Server, Security & Access Control, Compression Algorithm, and Data Storage
+  # Evan: Added the solar energy for power, and the long range server connector
 
 # UML Diagram Link:
 # https://drive.google.com/file/d/1hni8QpLTemc4JfEW2FYqdzLGweVK2kJV/view?usp=sharing
@@ -24,4 +25,7 @@ https://docs.google.com/document/d/1iQKpgQHKvmxozLZuBp7UyKF-L94jwSdtgEpnrqsvgO8/
      - filled in for Camera in UML
      - filled in for Alerts in UML
      - Both of these I described with more depth inside the google doc
+  # Evan:
+     - added battery functions to power 
+     - extended the camera functions 
           
